@@ -11,6 +11,8 @@ The grid divs change color when your mouse passes over them, leaving a (pixelate
 
 ![Etch-a-sketch](/assets/Etch-a-sketch.png?raw=true "Etch-a-sketch")
 
+The game is restarted by clicking at the Reset button at the top of the page.
+
 ### Built with
 
 * Html
